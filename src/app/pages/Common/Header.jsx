@@ -154,14 +154,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li><Link href={'ProductPage'}> New In </Link></li>
-                                                            <li><Link href={'ProductPage'}> Best Sellers</Link> </li>
-                                                            <li> <Link href={'ProductPage'}>Linen, the febric of summer </Link></li>
-                                                            <li><Link href={'ProductPage'}> The Originals</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Workwear</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Gift Cards</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Sale </Link></li>
+                                                            <li><Link href={'productpage'}> New In </Link></li>
+                                                            <li><Link href={'productpage'}> Best Sellers</Link> </li>
+                                                            <li> <Link href={'productpage'}>Linen, the febric of summer </Link></li>
+                                                            <li><Link href={'productpage'}> The Originals</Link> </li>
+                                                            <li><Link href={'productpage'}> Workwear</Link> </li>
+                                                            <li><Link href={'productpage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'productpage'}> Gift Cards</Link> </li>
+                                                            <li><Link href={'productpage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -169,14 +169,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li><Link href={'ProductPage'}> New In </Link></li>
-                                                            <li><Link href={'ProductPage'}> Best Sellers</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Linen, the febric of summer </Link></li>
-                                                            <li><Link href={'ProductPage'}> The Originals</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Workwear</Link> </li>
-                                                            <li><Link href={'ProductPage'}>Best of Instagram</Link> </li>
-                                                            <li> <Link href={'ProductPage'}>Gift Cards </Link></li>
-                                                            <li><Link href={'ProductPage'}> Sale </Link></li>
+                                                            <li><Link href={'productpage'}> New In </Link></li>
+                                                            <li><Link href={'productpage'}> Best Sellers</Link> </li>
+                                                            <li><Link href={'productpage'}> Linen, the febric of summer </Link></li>
+                                                            <li><Link href={'productpage'}> The Originals</Link> </li>
+                                                            <li><Link href={'productpage'}> Workwear</Link> </li>
+                                                            <li><Link href={'productpage'}>Best of Instagram</Link> </li>
+                                                            <li> <Link href={'productpage'}>Gift Cards </Link></li>
+                                                            <li><Link href={'productpage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -184,14 +184,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li><Link href={'ProductPage'}> New In</Link></li>
-                                                            <li><Link href={'ProductPage'}> Best Sellers</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Linen, the febric of summer</Link> </li>
-                                                            <li><Link href={'ProductPage'}> The Originals</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Workwear</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Gift Cards </Link></li>
-                                                            <li><Link href={'ProductPage'}> Sale </Link></li>
+                                                            <li><Link href={'productpage'}> New In</Link></li>
+                                                            <li><Link href={'productpage'}> Best Sellers</Link> </li>
+                                                            <li><Link href={'productpage'}> Linen, the febric of summer</Link> </li>
+                                                            <li><Link href={'productpage'}> The Originals</Link> </li>
+                                                            <li><Link href={'productpage'}> Workwear</Link> </li>
+                                                            <li><Link href={'productpage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'productpage'}> Gift Cards </Link></li>
+                                                            <li><Link href={'productpage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -215,14 +215,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li><Link href={'ProductPage'}> New In</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Best Sellers</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Linen, the febric of summer </Link></li>
-                                                            <li><Link href={'ProductPage'}> The Originals </Link></li>
-                                                            <li><Link href={'ProductPage'}> Workwear</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Gift Cards</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Sale </Link></li>
+                                                            <li><Link href={'productpage'}> New In</Link> </li>
+                                                            <li><Link href={'productpage'}> Best Sellers</Link> </li>
+                                                            <li><Link href={'productpage'}> Linen, the febric of summer </Link></li>
+                                                            <li><Link href={'productpage'}> The Originals </Link></li>
+                                                            <li><Link href={'productpage'}> Workwear</Link> </li>
+                                                            <li><Link href={'productpage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'productpage'}> Gift Cards</Link> </li>
+                                                            <li><Link href={'productpage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -230,14 +230,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li> <Link href={'ProductPage'}> New In</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Best Sellers</Link> </li>
-                                                            <li> <Link href={'ProductPage'}>Linen, the febric of summer </Link></li>
-                                                            <li> <Link href={'ProductPage'}>The Originals </Link></li>
-                                                            <li> <Link href={'ProductPage'}>Workwear </Link></li>
-                                                            <li><Link href={'ProductPage'}> Best of Instagram</Link> </li>
-                                                            <li> <Link href={'ProductPage'}>Gift Cards</Link> </li>
-                                                            <li> <Link href={'ProductPage'}>Sale </Link></li>
+                                                            <li> <Link href={'productpage'}> New In</Link> </li>
+                                                            <li><Link href={'productpage'}> Best Sellers</Link> </li>
+                                                            <li> <Link href={'productpage'}>Linen, the febric of summer </Link></li>
+                                                            <li> <Link href={'productpage'}>The Originals </Link></li>
+                                                            <li> <Link href={'productpage'}>Workwear </Link></li>
+                                                            <li><Link href={'productpage'}> Best of Instagram</Link> </li>
+                                                            <li> <Link href={'productpage'}>Gift Cards</Link> </li>
+                                                            <li> <Link href={'productpage'}>Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -245,14 +245,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li> <Link href={'ProductPage'}> New In</Link></li>
-                                                            <li><Link href={'ProductPage'}> Best Sellers</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Linen, the febric of summer</Link> </li>
-                                                            <li><Link href={'ProductPage'}> The Originals</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Workwear</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Gift Cards</Link> </li>
-                                                            <li><Link href={'ProductPage'}> Sale </Link></li>
+                                                            <li> <Link href={'productpage'}> New In</Link></li>
+                                                            <li><Link href={'productpage'}> Best Sellers</Link> </li>
+                                                            <li><Link href={'productpage'}> Linen, the febric of summer</Link> </li>
+                                                            <li><Link href={'productpage'}> The Originals</Link> </li>
+                                                            <li><Link href={'productpage'}> Workwear</Link> </li>
+                                                            <li><Link href={'productpage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'productpage'}> Gift Cards</Link> </li>
+                                                            <li><Link href={'productpage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -276,14 +276,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li> <Link href={'Singlepage'}> New In</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Best Sellers </Link></li>
-                                                            <li><Link href={'Singlepage'}> Linen, the febric of summer</Link> </li>
-                                                            <li><Link href={'Singlepage'}> The Originals</Link> </li>
-                                                            <li> <Link href={'Singlepage'}>Workwear</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Gift Cards </Link></li>
-                                                            <li><Link href={'Singlepage'}> Sale</Link> </li>
+                                                            <li> <Link href={'singlepage'}> New In</Link> </li>
+                                                            <li><Link href={'singlepage'}> Best Sellers </Link></li>
+                                                            <li><Link href={'singlepage'}> Linen, the febric of summer</Link> </li>
+                                                            <li><Link href={'singlepage'}> The Originals</Link> </li>
+                                                            <li> <Link href={'singlepage'}>Workwear</Link> </li>
+                                                            <li><Link href={'singlepage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'singlepage'}> Gift Cards </Link></li>
+                                                            <li><Link href={'singlepage'}> Sale</Link> </li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -291,14 +291,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li><Link href={'Singlepage'}> New In</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Best Sellers</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Linen, the febric of summer</Link> </li>
-                                                            <li><Link href={'Singlepage'}> The Originals</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Workwear</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Gift Cards </Link></li>
-                                                            <li><Link href={'Singlepage'}> Sale </Link></li>
+                                                            <li><Link href={'singlepage'}> New In</Link> </li>
+                                                            <li><Link href={'singlepage'}> Best Sellers</Link> </li>
+                                                            <li><Link href={'singlepage'}> Linen, the febric of summer</Link> </li>
+                                                            <li><Link href={'singlepage'}> The Originals</Link> </li>
+                                                            <li><Link href={'singlepage'}> Workwear</Link> </li>
+                                                            <li><Link href={'singlepage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'singlepage'}> Gift Cards </Link></li>
+                                                            <li><Link href={'singlepage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -306,14 +306,14 @@ function Header() {
                                                     <div className="py-2  submenuHeading"> <span> Featured </span> </div>
                                                     <div className="submenubottom ">
                                                         <ul className="p-0">
-                                                            <li><Link href={'Singlepage'}> New In </Link></li>
-                                                            <li><Link href={'Singlepage'}> Best Sellers </Link></li>
-                                                            <li><Link href={'Singlepage'}> Linen, the febric of summer</Link> </li>
-                                                            <li><Link href={'Singlepage'}> The Originals </Link></li>
-                                                            <li><Link href={'Singlepage'}> Workwear</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Best of Instagram</Link> </li>
-                                                            <li><Link href={'Singlepage'}> Gift Cards </Link></li>
-                                                            <li><Link href={'Singlepage'}> Sale </Link></li>
+                                                            <li><Link href={'singlepage'}> New In </Link></li>
+                                                            <li><Link href={'singlepage'}> Best Sellers </Link></li>
+                                                            <li><Link href={'singlepage'}> Linen, the febric of summer</Link> </li>
+                                                            <li><Link href={'singlepage'}> The Originals </Link></li>
+                                                            <li><Link href={'singlepage'}> Workwear</Link> </li>
+                                                            <li><Link href={'singlepage'}> Best of Instagram</Link> </li>
+                                                            <li><Link href={'singlepage'}> Gift Cards </Link></li>
+                                                            <li><Link href={'singlepage'}> Sale </Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -549,3 +549,4 @@ function Header() {
 }
 
 export default Header
+

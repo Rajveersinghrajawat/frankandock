@@ -8,6 +8,7 @@ import { FaStar } from "react-icons/fa";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import Link from 'next/link';
 
 
 function Index() {
@@ -34,10 +35,10 @@ function Index() {
                                 </div>
                                 <div className='py-3 text-center banner_row3'>
                                     <div className='banner_r3_btn'>
-                                        Women
+                                      <Link href={'productpage'}>Women</Link>
                                     </div>
                                     <div className='banner_r3_btn'>
-                                        Men
+                                    <Link href={'productpage'}>Men</Link>
                                     </div>
                                 </div>
                             </div>

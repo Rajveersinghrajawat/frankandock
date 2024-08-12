@@ -111,6 +111,10 @@
     .banner_bottom_row {
         padding: 0px;
     }
+
+    .custom-size {
+        width: 215.6px;
+    }
 }
 
 .offcanvas {
